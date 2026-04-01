@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "channel": "stable",
-  "built_at_utc": "2026-04-01T22:05:38Z",
-  "download_url": "https://raw.githubusercontent.com/WilliamFerrant/manage-me-senpai-manifest/main/releases/1.2.2/Manage-Me-Senpai-portable-1.2.2.zip",
-  "notes": "Package portable WPF GitHub 1.2.2"
+  "built_at_utc": "2026-04-02T01:01:00Z",
+  "download_url": "https://raw.githubusercontent.com/WilliamFerrant/manage-me-senpai-manifest/main/releases/1.2.3/Manage-Me-Senpai-portable-1.2.3.zip",
+  "notes": "Correction des accents et encodage UTF-8"
 }
