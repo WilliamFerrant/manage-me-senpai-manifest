@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.1",
-    "channel":  "stable",
-    "built_at_utc":  "2026-04-13T19:25:06Z",
-    "download_url":  "https://raw.githubusercontent.com/WilliamFerrant/manage-me-senpai-manifest/main/releases/1.3.1/Manage-Me-Senpai-portable-1.3.1.zip",
-    "notes":  "Package portable WPF GitHub 1.3.1"
+  "version": "1.3.2",
+  "channel": "stable",
+  "built_at_utc": "2026-04-20T01:21:50Z",
+  "download_url": "https://raw.githubusercontent.com/WilliamFerrant/manage-me-senpai-manifest/main/releases/1.3.2/Manage-Me-Senpai-portable-1.3.2.zip",
+  "notes": "Package portable WPF GitHub 1.3.2"
 }
